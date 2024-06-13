@@ -1,7 +1,5 @@
-## Hi there 👋
-
+About Me:
 <!--
-**ZeWolfozo/ZeWolfozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Current Integrated Computer Science student at Kansas State University with a minor in Visual Communication Design. The purpose of this combo is to work in UX/UI design. I also have an interest in HCI (Human-Computer Interaction) so I hope to incorporate or even work directly in that field. 
